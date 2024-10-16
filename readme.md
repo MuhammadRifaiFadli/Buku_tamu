@@ -2,7 +2,7 @@
 
 Ini adalah aplikasi buku tamu sederhana yang dibangun menggunakan PHP dan SQLite.
 
-<img src="ss.png">
+<img src="img/ss.png">
 
 ## Fitur
 
