@@ -19,20 +19,8 @@ Ini adalah aplikasi buku tamu sederhana yang dibangun menggunakan PHP dan SQLite
 
 1. Clone repository ini atau unduh file-file yang ada.
 2. Pastikan PHP dan SQLite sudah terpasang di server.
-3. Buat database SQLite dengan perintah berikut di SQLite prompt:
-
-    ```sql
-    CREATE TABLE IF NOT EXISTS buku_tamu (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        nama TEXT NOT NULL,
-        alamat TEXT NOT NULL,
-        tanggal TEXT NOT NULL,
-        tujuan TEXT
-    );
-    ```
-
-4. Letakkan file-file di direktori root server.
-5. Akses `index.php` melalui browser untuk mulai menggunakan aplikasi.
+3. Letakkan file-file di direktori root server.
+4. Akses `index.php` melalui browser untuk mulai menggunakan aplikasi.
 
 ## Struktur File
 
